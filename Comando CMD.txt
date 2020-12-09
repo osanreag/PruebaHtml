@@ -1,0 +1,4 @@
+PARA CREAR DIRECTORIOS ( md nombrecarpeta  )
+PARA BORRAR DIRECTORIOS ( rd/s nombrecarpeta )
+cd/-- para salir a la raíz del disco 
+cd.. para regresar al directorio anterior
